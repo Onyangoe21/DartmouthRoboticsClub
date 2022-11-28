@@ -1,0 +1,42 @@
+
+#maindiv {
+    background-color: black;
+    color: white;
+}
+
+#navigation_bar {
+    background-color: grey;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 20px;
+    border: 20px;
+    margin: 20px;
+    border-radius: 12px;
+    color: white;
+}
+
+.organization_info {
+    background-color: grey;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 20px;
+    border: 20px;
+    margin: 20px;
+    font-size: large;
+    border-radius: 12px;
+    color: white;
+}
+
+.page_images{
+    padding: 20px;
+    border: 20px;
+    margin: 40px;
+    border-radius: 12px;
+}
+
+.column_elements {
+    background-color: rgb(21, 15, 15);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 20px;
+    border: 20px;
+    margin: 20px;
+    color: white;
+}
